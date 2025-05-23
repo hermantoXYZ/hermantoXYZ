@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hermantoxyz&label=Profile%20views&color=0e75b6&style=flat" alt="hermantoxyz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hermantoxyz" alt="hermantoxyz" /></a> </p>
+<p align="left" margin="2px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hermantoxyz" alt="hermantoxyz" /></a> </p>
 
 - 🔭 I’m currently working on [Digital Invitation](https://github.com/hermantoXYZ/webApp-Inviteku.com-V2)
 
